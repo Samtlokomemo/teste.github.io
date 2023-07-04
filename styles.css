@@ -1,7 +1,12 @@
 body {
     background-color: #141414;
 }
-p, h3 {
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Poppins';
+}
+h1{
     color: white;
     text-align: center;
     font-family: 'Poppins';
