@@ -13,6 +13,11 @@ h1 {
     font-family: 'Poppins';
 }
 
+img
+{
+    width: 20%;
+}
+
 #Título{
     align-items: center;
     justify-items: center;
