@@ -20,6 +20,11 @@ img
     height: auto;
 }
 
+#showcase{
+    min-height: 750px;
+    text-align: center;
+}
+
 #showcase .bgimage{
     position: absolute;
     background-image: #333 url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
