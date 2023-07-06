@@ -20,6 +20,12 @@ img
     height: auto;
 }
 
+#showcase .bgimage{
+    position: absolute;
+    background-image: #333 url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
+
+}
+
 #Título{
     align-items: center;
     justify-items: center;
