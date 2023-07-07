@@ -27,7 +27,6 @@ img
 }
 
 #bgimage{
-    position: absolute;
     background-image: #333 url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
 }
 
