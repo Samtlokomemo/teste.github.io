@@ -16,8 +16,13 @@ h1 {
 #Saibamais img
 {
     display: block;
-    width: 50%;
+    width: 10%;
     height: auto;
+}
+
+
+#Saibamais{
+    justify-content: center;
 }
 
 #showcase{
@@ -35,6 +40,6 @@ h1 {
     justify-items: center;
 }
 
-#Saibamais{
-    justify-content: center;
+.Card{
+    margin: 50px;
 }
